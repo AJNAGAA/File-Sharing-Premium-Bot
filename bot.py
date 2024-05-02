@@ -1,9 +1,7 @@
-# Jishu Developer 
+# Empire Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
-
+# Telegram Channel @Era_Bot_Support
+# Developer @Empire_756
 
 
 from aiohttp import web
@@ -87,9 +85,7 @@ class Bot(Client):
 
 
 
-
-# Jishu Developer 
+# Empire Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Era_Bot_Support
+# Developer @Empire_756
