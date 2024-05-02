@@ -1,8 +1,7 @@
-# Jishu Developer 
+# Empire Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Era_Bot_Support
+# Developer @Empire_756
 
 
 
@@ -89,8 +88,7 @@ def LOGGER(name: str) -> logging.Logger:
 
 
 
-# Jishu Developer 
+# Empire Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Era_Bot_Support
+# Developer @Empire_756
