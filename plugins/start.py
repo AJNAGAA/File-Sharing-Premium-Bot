@@ -1,10 +1,7 @@
-# Jishu Developer 
+# Empire Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
-
-
+# Telegram Channel @Era_Bot_Support
+# Developer @Empire_756
 
 
 import os
@@ -229,8 +226,7 @@ Unsuccessful: <code>{unsuccessful}</code></b>"""
 
 
 
-# Jishu Developer 
+# Empire Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Telegram Channel @Era_Bot_Support
+# Developer @Empire_756
